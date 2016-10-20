@@ -1,0 +1,6 @@
+com\ldap\service\ClientServiceImpl.class
+com\ldap\model\Client.class
+com\ldap\dao\ClientDao.class
+com\ldap\dao\ClientDaoImpl.class
+com\ldap\service\ClientService.class
+com\ldap\controller\ClientController.class
